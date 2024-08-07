@@ -1,6 +1,5 @@
 div {
     width: 100%;
     max-width: 200px;
-    height: 200px;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.2);
 }
