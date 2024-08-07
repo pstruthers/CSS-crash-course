@@ -1,20 +1,23 @@
+p {
+    color: blue;
+}
+
 .red {
     color: red;
 }
 
-p.blue {
-    color: blue;
+p.red {
+    color: purple;
 }
 
-.blue {
+.heading.red {
+    color: green;
+}
+
+#title {
     color: black;
 }
 
-p {
-    color: black;
-}
-
-section {
-    height: 80vh;
-    border: 1px solid black;
+#title.heading.red {
+    color: orange;
 }
