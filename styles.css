@@ -6,6 +6,10 @@
     color: blue;
 }
 
-p {
-    color: black;
+#title {
+    color: purple;
+}
+
+#subtitle {
+    color: green;
 }
