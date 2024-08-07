@@ -6,10 +6,11 @@
     color: blue;
 }
 
-#title {
-    color: purple;
+p {
+    color: black;
 }
 
-#subtitle {
-    color: green;
+section {
+    height: 80vh;
+    border: 1px solid black;
 }
