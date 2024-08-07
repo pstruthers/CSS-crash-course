@@ -3,7 +3,7 @@ div {
     max-width: 200px;
     height: 100vw;
     border: 1px solid black;
-    border-width: 10px;
-    border-style: dashed;
-    border-color: purple;
+    font-size: 18px;
+    font-weight: 200;
+    font-family: roboto;
 }
