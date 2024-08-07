@@ -2,5 +2,5 @@ div {
     width: 100%;
     max-width: 200px;
     height: 100vw;
-    border: 1px dashed black;
+    border: 1px dotted black;
 }
