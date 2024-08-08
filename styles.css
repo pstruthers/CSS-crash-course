@@ -1,18 +1,8 @@
-button {
-    animation: float 2s 3 alternate-reverse;
-    transition: all 300ms;
+.nav__link {
+    color: black;
 }
 
-button:hover {
-    background-color: black;
-    color: white;
-}
-
-@keyframes float {
-    0% {
-        transform: translateY(0)
-    }
-    100% {
-        transform: translateY(10px);
-    }
+.nav__link--active {
+    color: purple;
+    font-weight: bold;
 }
