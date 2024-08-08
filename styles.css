@@ -1,3 +1,4 @@
 div:hover {
+    transition: background-color 300ms;
     background-color: rgba(0,0,0,0.5);
 }
