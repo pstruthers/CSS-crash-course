@@ -6,14 +6,15 @@ div {
 .red {
     background-color: red;
     position: relative;
-    top: 10px;
-    left: 10px;
+    width: 100%;
+    box-sizing: border-box;
 }
 
-.blue {
+.child {
     background-color: blue;
+    width: 100px;
+    height: 100px;
     position: absolute;
-    width: 100%;
-    top: 10px;
-    left: 10px;
+    bottom: 0;
+    right: 0;
 }
