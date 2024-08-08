@@ -1,7 +1,3 @@
-div::after {
-    content: " Frontend Simplified"
-}
-
-div::before {
-    content: "Hello and "
+div:hover {
+    background-color: rgba(0,0,0,0.5);
 }
